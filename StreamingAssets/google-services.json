@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772488418476",
+    "firebase_url": "https://gametest-78a2f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gametest-78a2f",
+    "storage_bucket": "gametest-78a2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772488418476:android:8b717be6207ec3f0ecfb09",
+        "android_client_info": {
+          "package_name": "com.FanPlay.PowerPlai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772488418476-r5avof595b8esrlh4u02ngeij67m0617.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FanPlay.PowerPlai",
+            "certificate_hash": "03099268911b5304c9e71881b9018fa9b3d884c6"
+          }
+        },
+        {
+          "client_id": "772488418476-627bnj2oiesphst4ggq9nfaucap6pf54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU6dvlNpEwTyVUZ7OvdevwREPv0nn-1Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772488418476-627bnj2oiesphst4ggq9nfaucap6pf54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

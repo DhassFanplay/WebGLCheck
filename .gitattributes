@@ -1,3 +1,4 @@
+Build/*.gz filter=lfs diff=lfs merge=lfs -text
 Build/WebGLCheck.data filter=lfs diff=lfs merge=lfs -text
 Build/WebGLCheck.framework.js filter=lfs diff=lfs merge=lfs -text
 Build/WebGLCheck.wasm filter=lfs diff=lfs merge=lfs -text
